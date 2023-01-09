@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria um Onça ou Gatinho ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual e a sua velocidade ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"48km", "alias":"A"},
+        {"id": 2, "name":"82km", "alias":"B"},
+        {"id": 3, "name":"15km", "alias":"A"},
+        {"id": 4, "name":"70km", "alias":"B"},
+        {"id": 5, "name":"20km", "alias":"A"}
       ]
     },
     {
       "id":2,
       "question": "Quem você salvaria primeiro ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Copo de Leite", "alias":"A"},
+        {"id": 2, "name":"Uma bola", "alias":"A"},
+        {"id": 3, "name":"um rinoceronte", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual e seu prato preferido ?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Picanha", "alias":"B"},
+        {"id": 2, "name":"Prato de Leite", "alias":"A"},
+        {"id": 3, "name":"Peixe", "alias":"A"},
+        {"id": 4, "name":"um animal menor", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Nos desenhos e filmes e na vida real eu?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"sou a caça", "alias":"A"},
+        {"id": 2, "name":"sou o caçador", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual maximo que consegue subir ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Nas mais altas edificações", "alias":"A"},
+        {"id": 2, "name":"No maximo em um galho", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um Gatinho, Miau, Miau !",
+    "B": "Você muito provavelmente seria uma Onça que isso fera!"
   }
 }
