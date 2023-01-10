@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+Olá! Seja bem vindo(a) a meu projeto Angular 
+
+Bootcamp Dio 
+
+# Imagem do projeto
+ls
+![Blog-Angular](https://raw.githubusercontent.com/diegobda/angular-buzzfeed-quizz-clone/main/Screenshot%20from%202023-01-09%2021-11-50.png?raw=true)
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
